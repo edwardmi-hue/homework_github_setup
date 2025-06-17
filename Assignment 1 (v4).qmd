@@ -31,7 +31,7 @@ editor: visual
 
 ## Introduction {.smaller}
 
-This presentation analyzes Economic, Social, Environmental, Health, Education, Development and Energy indicators across three selected countries:
+This version 3.0 presentation analyzes Economic, Social, Environmental, Health, Education, Development and Energy indicators across three selected countries:
 
 -   **Country 1**: US
 -   **Country 2**: UK
