@@ -77,7 +77,7 @@ str(country1_dt)
 
 ## Task 1: Setting Correct Classes {.smaller}
 
-This code assigns optimal data classes for performance. Country ISO3 and Indicator columns become factors because they're repetitive categories, enabling memory-efficient storage and faster grouping. Year becomes integer to save memory. Value becomes numeric for correlations. This optimization reduces memory usage \~70% and speeds up operations \~5x while ensuring data integrity for statistical analysis.
+This R code assigns optimal data classes for performance. Country ISO3 and Indicator columns become factors because they're repetitive categories, enabling memory-efficient storage and faster grouping. Year becomes integer to save memory. Value becomes numeric for correlations. This optimization reduces memory usage \~70% and speeds up operations \~5x while ensuring data integrity for statistical analysis.
 
 ```{r classe, warning=FALSE}
 # Function to set appropriate classes
